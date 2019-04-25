@@ -5,11 +5,15 @@
         <group>
             <file>file:/C:/Users/frano/OneDrive/Documentos/NetBeansProjects/Carrito/web/shop.jsp</file>
             <file>file:/C:/Users/frano/OneDrive/Documentos/NetBeansProjects/Carrito/src/java/classes/Articulo.java</file>
+            <file>file:/C:/Users/frano/OneDrive/Documentos/NetBeansProjects/Carrito/web/product-details.jsp</file>
             <file>file:/C:/Users/frano/OneDrive/Documentos/NetBeansProjects/Carrito/src/java/models/Conexion.java</file>
             <file>file:/C:/Users/frano/OneDrive/Documentos/NetBeansProjects/Carrito/src/java/classes/Producto.java</file>
+            <file>file:/C:/Users/frano/OneDrive/Documentos/NetBeansProjects/Carrito/web/WEB-INF/web.xml</file>
             <file>file:/C:/Users/frano/OneDrive/Documentos/NetBeansProjects/Carrito/web/index.html</file>
             <file>file:/C:/Users/frano/OneDrive/Documentos/NetBeansProjects/Carrito/src/java/controllers/ControladorProducto.java</file>
             <file>file:/C:/Users/frano/OneDrive/Documentos/NetBeansProjects/Carrito/src/java/models/ModeloProducto.java</file>
+            <file>file:/C:/Users/frano/OneDrive/Documentos/NetBeansProjects/Carrito/src/java/servlets/AddCart.java</file>
+            <file>file:/C:/Users/frano/OneDrive/Documentos/NetBeansProjects/Carrito/web/cart.jsp</file>
         </group>
     </open-files>
 </project-private>
